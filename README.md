@@ -1,6 +1,7 @@
 # KOCMOC SVF Filter - Custom Layout
 
-This repository contains a modified version of the KOCMOC SVF filter, originally created by janne808. The modifications include a new PCB layout and panel design that are intended to be more user-friendly and visually appealing, while preserving the core functionality of the original circuit.
+This repository contains a modified version of the [KOCMOC SVF filter](https://github.com/janne808/Kocmoc-Eurorack), originally created by janne808.
+The modifications include a new PCB layout and panel design that are intended to be more user-friendly and visually appealing, while preserving the core functionality of the original circuit.
 
 ## Credits
 
