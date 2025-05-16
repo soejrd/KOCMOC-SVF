@@ -22,8 +22,8 @@ The modifications to the KOCMOC SVF filter consist of a new PCB layout and panel
 This modified version of the KOCMOC SVF filter is also released under the [CERN Open Hardware Licence Version 2 - Strongly Reciprocal](https://ohwr.org/cernohl), which requires that any modifications or derivatives of the original work are also released under the same license. This means that you are free to use, modify, and distribute this modified version as long as you comply with the terms of the license.
 
 ## Usage
-
-$\color{Red}{\textsf{Caution!}}$ The frequency potentiometer is wired backwards, you'll have to modify this yourself.
+> [!CAUTION]
+> The frequency potentiometer is wired backwards, you'll have to modify this yourself.
 
 If you want to use or build upon this modified version of the KOCMOC SVF filter, you can clone or download this repository and use the files as you would any other open hardware project. You will find all the necessary files, including schematics, PCB layout, and panel design in the "respected" folder. There are files included to manufacture the board, panel (and assembly) at JLCPCB. However, please note that not every part is supplied by JLC and you will need to source some of these parts yourself.
 
